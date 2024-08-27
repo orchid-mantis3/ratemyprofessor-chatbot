@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Calculus",
+      "stars": 4,
+      "review": "Dr. Thompson explains complex topics clearly, but the exams are challenging."
+    },
+    {
+      "professor": "Professor Michael Richards",
+      "subject": "Literature",
+      "stars": 5,
+      "review": "One of the best literature professors. His passion for the subject is contagious."
+    },
+    {
+      "professor": "Dr. Linda Carter",
+      "subject": "Chemistry",
+      "stars": 3,
+      "review": "Her lectures are informative but often rushed. Labs are well organized."
+    },
+    {
+      "professor": "Professor John Blake",
+      "subject": "History",
+      "stars": 2,
+      "review": "Not very engaging and assignments are vague."
+    },
+    {
+      "professor": "Dr. Emily Cooper",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Great lecturer, but problem sets are tough."
+    },
+    {
+      "professor": "Professor Alan Gray",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Thought-provoking discussions and fair grading."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Biology",
+      "stars": 3,
+      "review": "Lectures are detailed, but tests are difficult."
+    },
+    {
+      "professor": "Professor Richard Lee",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Very knowledgeable, but lectures can be a bit dry."
+    },
+    {
+      "professor": "Dr. Karen Mitchell",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Engaging and passionate about the subject."
+    },
+    {
+      "professor": "Professor George Miller",
+      "subject": "Computer Science",
+      "stars": 3,
+      "review": "Good content, but lacks hands-on examples."
+    },
+    {
+      "professor": "Dr. Elizabeth Davis",
+      "subject": "Statistics",
+      "stars": 4,
+      "review": "Clear explanations, but the pace is fast."
+    },
+    {
+      "professor": "Professor Robert Walker",
+      "subject": "Political Science",
+      "stars": 2,
+      "review": "Lectures are dull and assignments are unclear."
+    },
+    {
+      "professor": "Dr. James Wilson",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Insightful and inspiring. Highly recommend."
+    },
+    {
+      "professor": "Professor Nancy Adams",
+      "subject": "Art History",
+      "stars": 4,
+      "review": "Passionate and knowledgeable, but heavy reading load."
+    },
+    {
+      "professor": "Dr. Steven King",
+      "subject": "Mathematics",
+      "stars": 3,
+      "review": "Content is solid, but lectures can be monotonous."
+    },
+    {
+      "professor": "Professor Alice Morgan",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Very engaging with practical examples."
+    },
+    {
+      "professor": "Dr. Patricia Roberts",
+      "subject": "Business",
+      "stars": 4,
+      "review": "Challenging assignments but fair grading."
+    },
+    {
+      "professor": "Professor William Harris",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Interesting topics, but lectures can be dry."
+    },
+    {
+      "professor": "Dr. Barbara Johnson",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Good instructor, but labs can be overwhelming."
+    },
+    {
+      "professor": "Professor Thomas Clark",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Incredible knowledge and passion for the subject."
+    }
+  ]
+}
